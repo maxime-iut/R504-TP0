@@ -1,3 +1,3 @@
 # TP R5.04
 
-(silly car)[silly.jpg]
+[silly car](./silly.jpg)
